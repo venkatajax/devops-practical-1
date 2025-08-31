@@ -1,4 +1,4 @@
-# This readme outlines the steps and approach I took to containerize the given app and deploy into Kubernetes cluster using Minikube. This repo contains Dockerfile and docker-compose.yml file used to dockerize the app. Also I have attached the relevant screenshots.
+# This README file outlines the steps and approach I took to containerize the given app and deploy into Kubernetes cluster using Minikube. This repo contains Dockerfile and docker-compose.yml file used to dockerize the app. Also I have attached the relevant screenshots. Added k8s manifest files used for this deployment.
 
 Below is the approach I took.
 1) Installed Docker as Minikube runs inside Docker.
